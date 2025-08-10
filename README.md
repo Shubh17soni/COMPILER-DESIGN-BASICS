@@ -33,3 +33,4 @@ Moreover, I encountered and resolved some logical and syntax-based issues during
 Overall, the task served as a hands-on introduction to how a compiler’s frontend works and laid the groundwork for more advanced topics such as syntax parsing and semantic analysis.
 
 *OUTPUT*
+<img width="795" height="388" alt="Image" src="https://github.com/user-attachments/assets/9c724049-32bf-431a-8571-3030efb28db9" />
